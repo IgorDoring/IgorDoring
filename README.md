@@ -5,8 +5,6 @@
 
 Hi!
 
-So... I'm terrible at introductions, so i'll start now.
-
 I'm Igor Doring, from Brazil, I enjoyed computers for a really good part of my life, half if i try to be precise (Im 21). 
 Not gonna lie, started with videogames, but i had a glimpse of programming from a cousin, and i was hooked,
 imagine discovering as a kid that you can teach computer to do ANYTHING (hey, i was like nine, give it a break, there no limits for a nine year old).

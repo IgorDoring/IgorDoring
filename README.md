@@ -7,10 +7,10 @@ Hi!
 
 I'm Igor Doring, from Brazil, I enjoyed computers for a really good part of my life, half if i try to be precise (Im 21). 
 Not gonna lie, started with videogames, but i had a glimpse of programming from a cousin, and i was hooked,
-imagine discovering as a kid that you can teach computer to do ANYTHING (hey, i was like nine, give it a break, there no limits for a nine year old).
+imagine discovering as a kid that you can teach computer to do ANYTHING.
 
-Since then, i knew that i should work with computers, thats why i have a certificate on informatics, so i tried everything from technical maintenance 
-to programming, what stick on me was web development, but doesn't mean that i don't know a little bit of everything.
+Since then, i knew that i should work with computers, thats why i have a certificate on informatics from a small school in a small city. 
+I tried everything from maintenance to programming, what stick on me was web development, but doesn't mean that i don't know a little bit of everything.
 
 If i could i'd use all of it, but a poison get stronger on a cup more than in a bucket.
 

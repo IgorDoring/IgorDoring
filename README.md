@@ -5,7 +5,7 @@
 
 Hi!
 
-I'm Igor Doring, from Brazil, I enjoyed computers for a really good part of my life, half if i try to be precise (Im 21). 
+I'm Igor Doring, from Brazil, I enjoyed computers for a really good part of my life, half if i try to be precise (Born in the 2000). 
 Not gonna lie, started with videogames, but i had a glimpse of programming from a cousin, and i was hooked,
 imagine discovering as a kid that you can teach computer to do ANYTHING.
 

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IgorDoring
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Analysis and Software Development
-- 📫 You can reach at igor.doring29@gmail.com
+- 📫 You can reach me at igor.doring29@gmail.com
 
 Hi!
 

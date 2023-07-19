@@ -10,12 +10,9 @@ Not gonna lie, started with videogames, but i had a glimpse of programming from 
 imagine discovering as a kid that you can teach computer to do ANYTHING.
 
 Since then, i knew that i should work with computers, thats why i have a certificate on informatics from a small school in a small city. 
-I tried everything from maintenance to programming, what stick on me was web development, but doesn't mean that i don't know a little bit of everything.
-
-If i could i'd use all of it, but a poison get stronger on a cup more than in a bucket.
+I tried everything from maintenance to programming, what i liked best was web development, but doesn't mean that i don't know a little bit of everything.
 
 This is only a introduction, but i'll try to prove my knowledge on this Hub!
-See Ya!
 
 <!---
 IgorDoring/IgorDoring is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

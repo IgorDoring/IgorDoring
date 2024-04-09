@@ -5,13 +5,9 @@
 
 Hi!
 
-I'm Igor Doring, from Brazil, I enjoyed computers for a really good part of my life. 
-Not gonna lie, started with videogames, but i learned coding in high school.
-
-Since then, i knew that i should work with computers, thats why i have a certificate on informatics from a small school in a small city. 
-I tried everything from maintenance to programming, what i've liked best was web development, but that does not mean that i don't know a little bit of everything.
-
-This is only a introduction, but i'll try to prove my knowledge on this Hub!
+Passionate about frontend development since 2019, I specialize in creating robust and intuitive web applications. 
+My expertise spans HTML, CSS, JavaScript, and Angular, with proficiency in Bootstrap, TailwindCSS, and more. I'm currently exploring Angular and NestJS to further elevate my skill set. 
+Excited to connect with like-minded professionals and contribute to impactful projects in the GitHub community.
 
 <!---
 IgorDoring/IgorDoring is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
